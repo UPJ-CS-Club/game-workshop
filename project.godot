@@ -18,11 +18,6 @@ config/name="CS-Club-Space-Invaders"
 config/features=PackedStringArray("4.7", "Forward Plus")
 config/icon="res://icon.svg"
 
-[display]
-
-window/size/viewport_width=800
-window/size/viewport_height=800
-
 [global_group]
 
 bullet=""
